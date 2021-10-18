@@ -1,0 +1,7 @@
+data/
+.DS_Store
+Models/
+tf_summary/
+__pycache__/
+dev/
+osc/
